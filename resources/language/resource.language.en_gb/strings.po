@@ -1,0 +1,80 @@
+# Kodi Media Center language file
+# Addon Name: Autoexec Service
+# Addon id: service.autoexec
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Play at start-up"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Turn off to keep the add-on installed without it doing anything."
+msgstr ""
+
+msgctxt "#30003"
+msgid "What to play"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Choose whether to play a whole playlist, one random item from it, or one random file from a folder."
+msgstr ""
+
+msgctxt "#30005"
+msgid "Playlist (.m3u)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "M3U or M3U8 playlist. Relative entries are resolved against the playlist's own folder."
+msgstr ""
+
+msgctxt "#30007"
+msgid "Folder"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Folder to pick a random media file from (not recursive)."
+msgstr ""
+
+msgctxt "#30010"
+msgid "Playlist, in order"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Playlist, shuffled"
+msgstr ""
+
+msgctxt "#30012"
+msgid "One random item from playlist"
+msgstr ""
+
+msgctxt "#30013"
+msgid "One random file from folder"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Timing"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Extra delay after home screen (seconds)"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Wait this long after the home screen appears before starting playback."
+msgstr ""
+
+msgctxt "#30023"
+msgid "Skip if something is already playing"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Do nothing if playback has already started, e.g. from a remote or another add-on."
+msgstr ""

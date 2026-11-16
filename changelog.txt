@@ -1,0 +1,3 @@
+v1.0.0
+- Initial release: playlist in order / shuffled, random item from playlist,
+  random file from folder; start-up delay; skip if already playing.
